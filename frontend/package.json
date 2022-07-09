@@ -1,0 +1,8 @@
+{
+  "name": "titra",
+  "version": "0.1.0",
+  "tiki": {
+    "appIdentifier": "vn.tiki.miniapp.titra",
+    "buildNumber": 1
+  }
+}

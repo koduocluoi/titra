@@ -1,0 +1,5 @@
+<view class="container">
+  <view class="mainText">Tiền Nợ</view>
+  <view class="subText">300.000 đ</view>
+  <view class="nextBtn">></view>
+</view>
